@@ -42,10 +42,10 @@ RM = "C:\Program Files (x86)\JetBrains\CLion 2016.3.2\bin\cmake\bin\cmake.exe" -
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer
+CMAKE_SOURCE_DIR = C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/AnalystComparer.dir/depend.make
@@ -58,16 +58,16 @@ include CMakeFiles/AnalystComparer.dir/flags.make
 
 CMakeFiles/AnalystComparer.dir/main.cpp.obj: CMakeFiles/AnalystComparer.dir/flags.make
 CMakeFiles/AnalystComparer.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AnalystComparer.dir/main.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AnalystComparer.dir\main.cpp.obj -c C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AnalystComparer.dir/main.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AnalystComparer.dir\main.cpp.obj -c C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\main.cpp
 
 CMakeFiles/AnalystComparer.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AnalystComparer.dir/main.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\main.cpp > CMakeFiles\AnalystComparer.dir\main.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\main.cpp > CMakeFiles\AnalystComparer.dir\main.cpp.i
 
 CMakeFiles/AnalystComparer.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AnalystComparer.dir/main.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\main.cpp -o CMakeFiles\AnalystComparer.dir\main.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\main.cpp -o CMakeFiles\AnalystComparer.dir\main.cpp.s
 
 CMakeFiles/AnalystComparer.dir/main.cpp.obj.requires:
 
@@ -82,16 +82,16 @@ CMakeFiles/AnalystComparer.dir/main.cpp.obj.provides.build: CMakeFiles/AnalystCo
 
 CMakeFiles/AnalystComparer.dir/Utils.cpp.obj: CMakeFiles/AnalystComparer.dir/flags.make
 CMakeFiles/AnalystComparer.dir/Utils.cpp.obj: ../Utils.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/AnalystComparer.dir/Utils.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AnalystComparer.dir\Utils.cpp.obj -c C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\Utils.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/AnalystComparer.dir/Utils.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AnalystComparer.dir\Utils.cpp.obj -c C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\Utils.cpp
 
 CMakeFiles/AnalystComparer.dir/Utils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AnalystComparer.dir/Utils.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\Utils.cpp > CMakeFiles\AnalystComparer.dir\Utils.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\Utils.cpp > CMakeFiles\AnalystComparer.dir\Utils.cpp.i
 
 CMakeFiles/AnalystComparer.dir/Utils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AnalystComparer.dir/Utils.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\Utils.cpp -o CMakeFiles\AnalystComparer.dir\Utils.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\Utils.cpp -o CMakeFiles\AnalystComparer.dir\Utils.cpp.s
 
 CMakeFiles/AnalystComparer.dir/Utils.cpp.obj.requires:
 
@@ -106,16 +106,16 @@ CMakeFiles/AnalystComparer.dir/Utils.cpp.obj.provides.build: CMakeFiles/AnalystC
 
 CMakeFiles/AnalystComparer.dir/Comparer.cpp.obj: CMakeFiles/AnalystComparer.dir/flags.make
 CMakeFiles/AnalystComparer.dir/Comparer.cpp.obj: ../Comparer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/AnalystComparer.dir/Comparer.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AnalystComparer.dir\Comparer.cpp.obj -c C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\Comparer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/AnalystComparer.dir/Comparer.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AnalystComparer.dir\Comparer.cpp.obj -c C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\Comparer.cpp
 
 CMakeFiles/AnalystComparer.dir/Comparer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AnalystComparer.dir/Comparer.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\Comparer.cpp > CMakeFiles\AnalystComparer.dir\Comparer.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\Comparer.cpp > CMakeFiles\AnalystComparer.dir\Comparer.cpp.i
 
 CMakeFiles/AnalystComparer.dir/Comparer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AnalystComparer.dir/Comparer.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\Comparer.cpp -o CMakeFiles\AnalystComparer.dir\Comparer.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\Comparer.cpp -o CMakeFiles\AnalystComparer.dir\Comparer.cpp.s
 
 CMakeFiles/AnalystComparer.dir/Comparer.cpp.obj.requires:
 
@@ -130,16 +130,16 @@ CMakeFiles/AnalystComparer.dir/Comparer.cpp.obj.provides.build: CMakeFiles/Analy
 
 CMakeFiles/AnalystComparer.dir/PurchaseSale.cpp.obj: CMakeFiles/AnalystComparer.dir/flags.make
 CMakeFiles/AnalystComparer.dir/PurchaseSale.cpp.obj: ../PurchaseSale.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/AnalystComparer.dir/PurchaseSale.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AnalystComparer.dir\PurchaseSale.cpp.obj -c C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\PurchaseSale.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/AnalystComparer.dir/PurchaseSale.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AnalystComparer.dir\PurchaseSale.cpp.obj -c C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\PurchaseSale.cpp
 
 CMakeFiles/AnalystComparer.dir/PurchaseSale.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AnalystComparer.dir/PurchaseSale.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\PurchaseSale.cpp > CMakeFiles\AnalystComparer.dir\PurchaseSale.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\PurchaseSale.cpp > CMakeFiles\AnalystComparer.dir\PurchaseSale.cpp.i
 
 CMakeFiles/AnalystComparer.dir/PurchaseSale.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AnalystComparer.dir/PurchaseSale.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\PurchaseSale.cpp -o CMakeFiles\AnalystComparer.dir\PurchaseSale.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\PurchaseSale.cpp -o CMakeFiles\AnalystComparer.dir\PurchaseSale.cpp.s
 
 CMakeFiles/AnalystComparer.dir/PurchaseSale.cpp.obj.requires:
 
@@ -154,16 +154,16 @@ CMakeFiles/AnalystComparer.dir/PurchaseSale.cpp.obj.provides.build: CMakeFiles/A
 
 CMakeFiles/AnalystComparer.dir/History.cpp.obj: CMakeFiles/AnalystComparer.dir/flags.make
 CMakeFiles/AnalystComparer.dir/History.cpp.obj: ../History.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/AnalystComparer.dir/History.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AnalystComparer.dir\History.cpp.obj -c C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\History.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/AnalystComparer.dir/History.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AnalystComparer.dir\History.cpp.obj -c C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\History.cpp
 
 CMakeFiles/AnalystComparer.dir/History.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AnalystComparer.dir/History.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\History.cpp > CMakeFiles\AnalystComparer.dir\History.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\History.cpp > CMakeFiles\AnalystComparer.dir\History.cpp.i
 
 CMakeFiles/AnalystComparer.dir/History.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AnalystComparer.dir/History.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\History.cpp -o CMakeFiles\AnalystComparer.dir\History.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\History.cpp -o CMakeFiles\AnalystComparer.dir\History.cpp.s
 
 CMakeFiles/AnalystComparer.dir/History.cpp.obj.requires:
 
@@ -178,16 +178,16 @@ CMakeFiles/AnalystComparer.dir/History.cpp.obj.provides.build: CMakeFiles/Analys
 
 CMakeFiles/AnalystComparer.dir/Analyst.cpp.obj: CMakeFiles/AnalystComparer.dir/flags.make
 CMakeFiles/AnalystComparer.dir/Analyst.cpp.obj: ../Analyst.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/AnalystComparer.dir/Analyst.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AnalystComparer.dir\Analyst.cpp.obj -c C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\Analyst.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/AnalystComparer.dir/Analyst.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\AnalystComparer.dir\Analyst.cpp.obj -c C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\Analyst.cpp
 
 CMakeFiles/AnalystComparer.dir/Analyst.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AnalystComparer.dir/Analyst.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\Analyst.cpp > CMakeFiles\AnalystComparer.dir\Analyst.cpp.i
+	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\Analyst.cpp > CMakeFiles\AnalystComparer.dir\Analyst.cpp.i
 
 CMakeFiles/AnalystComparer.dir/Analyst.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AnalystComparer.dir/Analyst.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\Analyst.cpp -o CMakeFiles\AnalystComparer.dir\Analyst.cpp.s
+	C:\PROGRA~2\MINGW-~1\I686-6~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\Analyst.cpp -o CMakeFiles\AnalystComparer.dir\Analyst.cpp.s
 
 CMakeFiles/AnalystComparer.dir/Analyst.cpp.obj.requires:
 
@@ -222,7 +222,7 @@ AnalystComparer.exe: CMakeFiles/AnalystComparer.dir/build.make
 AnalystComparer.exe: CMakeFiles/AnalystComparer.dir/linklibs.rsp
 AnalystComparer.exe: CMakeFiles/AnalystComparer.dir/objects1.rsp
 AnalystComparer.exe: CMakeFiles/AnalystComparer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable AnalystComparer.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable AnalystComparer.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\AnalystComparer.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -244,6 +244,6 @@ CMakeFiles/AnalystComparer.dir/clean:
 .PHONY : CMakeFiles/AnalystComparer.dir/clean
 
 CMakeFiles/AnalystComparer.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\cmake-build-debug C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\cmake-build-debug C:\Users\Kimba\OneDrive\Documents\GitHub\CS-1440\AnalystComparer\cmake-build-debug\CMakeFiles\AnalystComparer.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\cmake-build-debug C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\cmake-build-debug C:\Users\Kimba\OneDrive\Documents\GitHub\Homework-2\AnalystComparer\cmake-build-debug\CMakeFiles\AnalystComparer.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/AnalystComparer.dir/depend
 

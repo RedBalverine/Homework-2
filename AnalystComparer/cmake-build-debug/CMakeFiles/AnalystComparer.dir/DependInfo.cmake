@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Kimba/OneDrive/Documents/GitHub/CS-1440/AnalystComparer/Analyst.cpp" "C:/Users/Kimba/OneDrive/Documents/GitHub/CS-1440/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/Analyst.cpp.obj"
-  "C:/Users/Kimba/OneDrive/Documents/GitHub/CS-1440/AnalystComparer/Comparer.cpp" "C:/Users/Kimba/OneDrive/Documents/GitHub/CS-1440/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/Comparer.cpp.obj"
-  "C:/Users/Kimba/OneDrive/Documents/GitHub/CS-1440/AnalystComparer/History.cpp" "C:/Users/Kimba/OneDrive/Documents/GitHub/CS-1440/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/History.cpp.obj"
-  "C:/Users/Kimba/OneDrive/Documents/GitHub/CS-1440/AnalystComparer/PurchaseSale.cpp" "C:/Users/Kimba/OneDrive/Documents/GitHub/CS-1440/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/PurchaseSale.cpp.obj"
-  "C:/Users/Kimba/OneDrive/Documents/GitHub/CS-1440/AnalystComparer/Utils.cpp" "C:/Users/Kimba/OneDrive/Documents/GitHub/CS-1440/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/Utils.cpp.obj"
-  "C:/Users/Kimba/OneDrive/Documents/GitHub/CS-1440/AnalystComparer/main.cpp" "C:/Users/Kimba/OneDrive/Documents/GitHub/CS-1440/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/main.cpp.obj"
+  "C:/Users/Kimba/OneDrive/Documents/GitHub/Homework-2/AnalystComparer/Analyst.cpp" "C:/Users/Kimba/OneDrive/Documents/GitHub/Homework-2/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/Analyst.cpp.obj"
+  "C:/Users/Kimba/OneDrive/Documents/GitHub/Homework-2/AnalystComparer/Comparer.cpp" "C:/Users/Kimba/OneDrive/Documents/GitHub/Homework-2/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/Comparer.cpp.obj"
+  "C:/Users/Kimba/OneDrive/Documents/GitHub/Homework-2/AnalystComparer/History.cpp" "C:/Users/Kimba/OneDrive/Documents/GitHub/Homework-2/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/History.cpp.obj"
+  "C:/Users/Kimba/OneDrive/Documents/GitHub/Homework-2/AnalystComparer/PurchaseSale.cpp" "C:/Users/Kimba/OneDrive/Documents/GitHub/Homework-2/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/PurchaseSale.cpp.obj"
+  "C:/Users/Kimba/OneDrive/Documents/GitHub/Homework-2/AnalystComparer/Utils.cpp" "C:/Users/Kimba/OneDrive/Documents/GitHub/Homework-2/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/Utils.cpp.obj"
+  "C:/Users/Kimba/OneDrive/Documents/GitHub/Homework-2/AnalystComparer/main.cpp" "C:/Users/Kimba/OneDrive/Documents/GitHub/Homework-2/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
