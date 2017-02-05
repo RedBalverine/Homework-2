@@ -1,0 +1,3 @@
+C:/Users/Kimba/OneDrive/Documents/GitHub/CS-1440/AnalystComparer/cmake-build-debug/CMakeFiles/AnalystComparer.dir
+C:/Users/Kimba/OneDrive/Documents/GitHub/CS-1440/AnalystComparer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kimba/OneDrive/Documents/GitHub/CS-1440/AnalystComparer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
